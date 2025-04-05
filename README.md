@@ -14,7 +14,7 @@ Ha kérdésed van, vagy kapcsolatba lépnél velem, írj nekem: **benedek@dezso.
 ### Programok
 | Fordítás neve     | Nyelv    | Megtekintés helye         |
 |-------------------|----------|---------------------------|
-| SKEditor         | Magyar   | [Link](#)                |
+| SkEditor         | Magyar   | [Link]([#](https://github.com/DezsoBenedek/translations/tree/main/programs/SkEditor))                |
 
 ### Egyéb
 | Fordítás neve     | Nyelv    | Megtekintés helye         |
