@@ -9,7 +9,7 @@ Ha kérdésed van, vagy kapcsolatba lépnél velem, írj nekem: **benedek@dezso.
 ### Minecraft
 | Fordítás neve     | Nyelv    | Megtekintés helye         |
 |-------------------|----------|---------------------------|
-| -  | -   | [Link](#)                |
+| SuperiorSkyblock2  | Magyar   | [Link]([#](https://github.com/DezsoBenedek/translations/tree/main/minecraft/SuperiorSkyblock2))                |
 
 ### Programok
 | Fordítás neve     | Nyelv    | Megtekintés helye         |
