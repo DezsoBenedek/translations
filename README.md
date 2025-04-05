@@ -1,4 +1,4 @@
-# Dezső Benedek - Fordítások
+# Fordítások
 
 Üdvözöllek a fordításaim gyűjteményében! Itt rengeteg témában találsz fordításokat, amelyeket különböző nyelvekre készítettem. A fordítások kategóriákba vannak rendezve, és az egyes kategóriák tartalmát külön táblázatokban foglaltam össze. Minden táblázatban megtalálod, hogy mi lett lefordítva, milyen nyelvre, valamint hol tekintheted meg az adott fordítást.
 
