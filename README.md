@@ -9,17 +9,17 @@ Ha kérdésed van, vagy kapcsolatba lépnél velem, írj nekem: **benedek@dezso.
 ### Minecraft
 | Fordítás neve     | Nyelv    | Megtekintés helye         |
 |-------------------|----------|---------------------------|
-| SuperiorSkyblock2  | Magyar   | [Link]([#](https://github.com/DezsoBenedek/translations/tree/main/minecraft/SuperiorSkyblock2))                |
+| SuperiorSkyblock2  | Magyar   | [Link](https://github.com/DezsoBenedek/translations/tree/main/minecraft/SuperiorSkyblock2) |
 
 ### Programok
 | Fordítás neve     | Nyelv    | Megtekintés helye         |
 |-------------------|----------|---------------------------|
-| SkEditor         | Magyar   | [Link]([#](https://github.com/DezsoBenedek/translations/tree/main/programs/SkEditor))                |
+| SkEditor         | Magyar   | [Link](https://github.com/DezsoBenedek/translations/tree/main/programs/SkEditor) |
 
 ### Egyéb
 | Fordítás neve     | Nyelv    | Megtekintés helye         |
 |-------------------|----------|---------------------------|
-| LibreChat         | Magyar   | [Link](#)                |
+| LibreChat         | Magyar   | [Link](https://github.com/DezsoBenedek/translations/tree/main/other/LibreChat) |
 
 ---
 
